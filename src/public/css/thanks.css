@@ -1,0 +1,31 @@
+.thanks__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.thanks__item {
+    background-color: #fff;
+    width: 35vh;
+    height: 25vh;
+    border: solid 1px #fff;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px rgb(161, 161, 161);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.thanks__login-button {
+    padding: 20px;
+}
+.login__button {
+    background-color: blue;
+    color: #fff;
+    padding: 5px 12px;
+    text-decoration: none;
+    font-size: 12px;
+    border: solid 1px blue;
+    border-radius: 3px;
+    cursor: pointer;
+}

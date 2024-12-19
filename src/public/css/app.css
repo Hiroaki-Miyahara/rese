@@ -1,0 +1,29 @@
+html,body {
+    height: 100%;
+}
+.app__content {
+    background-color: rgb(220, 220, 220);
+    width: 100%;
+    height: 100%;
+}
+
+.header__content {
+    padding: 10px 80px;
+}
+
+.header__content a {
+    display: flex;
+    align-items: center;
+    filter: invert(8%) sepia(99%) saturate(7044%) hue-rotate(247deg) brightness(100%);
+    text-decoration: none;
+    z-index: 10;
+}
+
+.header__content img {
+    width: 25px;
+    height: 25px;
+}
+
+.header__content h2 {
+    padding-left: 15px;
+}

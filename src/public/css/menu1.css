@@ -1,0 +1,21 @@
+.menu1__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.menu1__item {
+    font-size: 30px;
+    text-align: center;
+}
+.menu1__item li {
+    list-style: none;
+    padding-bottom: 18px;
+}
+
+.menu1__item a{
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
